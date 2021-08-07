@@ -12,4 +12,3 @@ A screenshot of the console output immediately after you have successfully gener
 
 3. If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
 
-
